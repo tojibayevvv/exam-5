@@ -10,12 +10,10 @@ const BoughtProds = () => {
   const { cartItems, removeFromCart } = useCartContext();
   const { loading, error } = useAxios({ url: "cart" });
 
-  // Track the count for each item in the cart
   const [counts, setCounts] = useState(
     cartItems.reduce((acc, item) => ({ ...acc, [item.id]: 1 }), {})
   );
 
-  // Update the count for a specific item
   const updateCount = (id, value) => {
     setCounts((prevCounts) => ({
       ...prevCounts,
@@ -23,7 +21,6 @@ const BoughtProds = () => {
     }));
   };
 
-  // Calculate the total price based on counts
   const totalCartPrice = cartItems.reduce(
     (total, item) => total + item.price * (counts[item.id] || 1),
     0
@@ -42,7 +39,6 @@ const BoughtProds = () => {
         <p className="text-gray-500 text-center">Your cart is empty.</p>
       ) : (
         <>
-          {/* Responsive Grid for Cart Items */}
           <div className="grid gap-6 mt-6 sm:grid-cols-2 lg:grid-cols-3">
             {cartItems.map((item) => {
               const count = counts[item.id] || 1;
@@ -102,7 +98,7 @@ const BoughtProds = () => {
               );
             })}
           </div>
-          {/* Total Price Section */}
+
           <div className="mt-8 flex flex-col sm:flex-row sm:justify-between items-center">
             <div className="text-center sm:text-left">
               <h2 className="text-xl font-semibold">Grand Total:</h2>

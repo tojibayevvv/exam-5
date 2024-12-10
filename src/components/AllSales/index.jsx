@@ -1,7 +1,6 @@
 import React from "react";
 import useAxios from "../gettingAPI";
 import { StarFilled } from "@ant-design/icons";
-import { Link } from "react-router-dom";
 
 const AllSales = () => {
   const { data, loading, error } = useAxios({ url: "OnSale" });
