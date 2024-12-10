@@ -1,0 +1,771 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "iPhone 13",
+      "description": "Apple iPhone 13 a 2021 yilgi smartfon 6.1 dyuymli super Retina xdr OLED displeyga ega bo'lib, u aniq tasvir va yorqin ranglarni taqdim etadi.",
+      "image": "https://images.uzum.uz/ct60jh5pb7f3jk81ofn0/t_product_240_high.jpg",
+      "price": 468113
+    },
+    {
+      "id": "2",
+      "title": "Redmi 13R 5G",
+      "description": "Ishlab chiqarilgandan rasmiy kafolat: 1 yil. BarchaIMEIlar rasman ro'yxatdan o'tish o'yin (ro'yxatdan o'tishning faol 30 kun qismi amalga.oshiriladi).",
+      "image": "https://images.uzum.uz/csej83r4nkdhfdv6rm4g/original.jpg",
+      "price": 468113
+    },
+    {
+      "id": "3",
+      "title": "Samsung Galaxy A15",
+      "description": "Video suratga olish (asosiy kamera): 1080p, 30fps Autentifikatsiya: barmoq izi skaneri yon tomonda",
+      "image": "https://images.uzum.uz/cr5qduniraat934r19ng/original.jpg",
+      "price": 468113
+    },
+    {
+      "id": "4",
+      "title": "Samsung Galaxy S22 ULTRA",
+      "description": "Operatsion tizim: Samsung One UI foydalanuvchi interfeysi bilan eng yangi Android operatsion tizimida ishlaydi.",
+      "image": "https://images.uzum.uz/csi5udtpq3ghb2qm69i0/original.jpg",
+      "price": 468113
+    },
+    {
+      "id": "5",
+      "title": " HONOR X5 Plus",
+      "description": "Plastik korpusdagi HONOR X5 Plus smartfoni rasmlarning yorqinligini oshirish uchun LED chirog‘li ikki modulli kamera bilan jihozlangan.",
+      "image": "https://images.uzum.uz/crla2pchug2lhicnabr0/original.jpg",
+      "price": 468113
+    },
+    {
+      "id": "6",
+      "title": "Redmi 14",
+      "description": "Yupqa korpus: Atigi 8,22 mm² qalinlik, bu smartfonni yengil va qulay foydalanish uchun mos qiladi.",
+      "image": "https://images.uzum.uz/crmh606vip07shn5ar70/original.jpg",
+      "price": 468113
+    },
+    {
+      "id": "7",
+      "title": "Redmi 9a",
+      "description": "redmi 9 A 2021 yilgi smartfon 6.1 dyuymli super Retina xdr OLED displeyga ega bo'lib, u aniq tasvir va yorqin ranglarni taqdim etadi.",
+      "image": "https://images.uzum.uz/cis2jarltlh4bk4o5eeg/original.jpg",
+      "price": 468113
+    },
+    {
+      "id": "8",
+      "title": "iPhone 13",
+      "description": "Apple iPhone 13 a 2021 yilgi smartfon 6.1 dyuymli super Retina xdr OLED displeyga ega bo'lib, u aniq tasvir va yorqin ranglarni taqdim etadi.",
+      "image": "https://images.uzum.uz/cmqctcjifoubkc6pib3g/original.jpg",
+      "price": 468113
+    },
+    {
+      "id": "9",
+      "title": "iPhone 13",
+      "description": "Apple iPhone 13 a 2021 yilgi smartfon 6.1 dyuymli super Retina xdr OLED displeyga ega bo'lib, u aniq tasvir va yorqin ranglarni taqdim etadi.",
+      "image": "https://images.uzum.uz/ct60jh5pb7f3jk81ofn0/t_product_240_high.jpg",
+      "price": 468113
+    },
+    {
+      "id": "10",
+      "title": "iPhone 13",
+      "description": "Apple iPhone 13 a 2021 yilgi smartfon 6.1 dyuymli super Retina xdr OLED displeyga ega bo'lib, u aniq tasvir va yorqin ranglarni taqdim etadi.",
+      "image": "https://images.uzum.uz/ct60jh5pb7f3jk81ofn0/t_product_240_high.jpg",
+      "price": 468113
+    },
+    {
+      "id": "11",
+      "title": "iPhone 13",
+      "description": "Apple iPhone 13 a 2021 yilgi smartfon 6.1 dyuymli super Retina xdr OLED displeyga ega bo'lib, u aniq tasvir va yorqin ranglarni taqdim etadi.",
+      "image": "https://images.uzum.uz/ct60jh5pb7f3jk81ofn0/t_product_240_high.jpg",
+      "price": 468113
+    },
+    {
+      "id": "12",
+      "title": "iPhone 13",
+      "description": "Apple iPhone 13 a 2021 yilgi smartfon 6.1 dyuymli super Retina xdr OLED displeyga ega bo'lib, u aniq tasvir va yorqin ranglarni taqdim etadi.",
+      "image": "https://images.uzum.uz/ct60jh5pb7f3jk81ofn0/t_product_240_high.jpg",
+      "price": 468113
+    },
+    {
+      "id": "13",
+      "title": "iPhone 13",
+      "description": "Apple iPhone 13 a 2021 yilgi smartfon 6.1 dyuymli super Retina xdr OLED displeyga ega bo'lib, u aniq tasvir va yorqin ranglarni taqdim etadi.",
+      "image": "https://images.uzum.uz/ct60jh5pb7f3jk81ofn0/t_product_240_high.jpg",
+      "price": 468113
+    },
+    {
+      "id": "14",
+      "title": "iPhone 13",
+      "description": "Apple iPhone 13 a 2021 yilgi smartfon 6.1 dyuymli super Retina xdr OLED displeyga ega bo'lib, u aniq tasvir va yorqin ranglarni taqdim etadi.",
+      "image": "https://images.uzum.uz/ct60jh5pb7f3jk81ofn0/t_product_240_high.jpg",
+      "price": 468113
+    },
+    {
+      "id": "15",
+      "title": "iPhone 13",
+      "description": "Apple iPhone 13 a 2021 yilgi smartfon 6.1 dyuymli super Retina xdr OLED displeyga ega bo'lib, u aniq tasvir va yorqin ranglarni taqdim etadi.",
+      "image": "https://images.uzum.uz/ct60jh5pb7f3jk81ofn0/t_product_240_high.jpg",
+      "price": 468113
+    },
+    {
+      "id": "16",
+      "title": "airpods",
+      "description": "Pro 5 Wireless Bluetooth minigarnituralari avtomobil haydash, piyoda yurish va sport bilan shug‘ullanayotganda musiqa, audio va video tinglash hamda qo‘ng‘iroqlarga javob berish imkonini beruvchi ishlatish uchun qulay minigarnituralardir.",
+      "salePercentage": 12,
+      "image": "https://images.uzum.uz/cs4fabefh2vj1qtjtevg/original.jpg",
+      "price": 300000,
+      "oldPrice": 340999
+    },
+    {
+      "id": "17",
+      "title": "Kovrik",
+      "description": "Sirt materiali: Mikrotokimali, silliq harakatlanish uchun mo'ljallangan",
+      "salePercentage": 6,
+      "image": "https://images.uzum.uz/cs935abvgbkl7nokdgbg/original.jpg",
+      "price": 20000,
+      "oldPrice": 22000
+    },
+    {
+      "id": "18",
+      "title": "Keyboard",
+      "description": "O'yin klaviaturasi, mexanik, orqadan yoritilgan qizil kalitlarga ega. Dunyo bo'ylab xaridorlarning tanlovi! Klaviatura mexanik, har bir tugma alohida kalit (kalit) yordamida amalga oshiriladi.",
+      "salePercentage": 20,
+      "image": "https://images.uzum.uz/crftkjns09cvvbjrb06g/original.jpg",
+      "price": 52000,
+      "oldPrice": 65000
+    },
+    {
+      "id": "19",
+      "title": "Sumka",
+      "description": "Noutbukingiz uchun zamonaviy va amaliy sumka qidiryapsizmi? U holda bizning sumkamiz siz uchun juda mos keladi!",
+      "salePercentage": 15,
+      "image": "https://images.uzum.uz/cpar2mc0u44vrh8fa930/original.jpg",
+      "price": 150000,
+      "oldPrice": 176000
+    },
+    {
+      "id": "20",
+      "title": "Keyboard",
+      "description": "O'yin klaviaturasi, mexanik, orqadan yoritilgan qizil kalitlarga ega. Dunyo bo'ylab xaridorlarning tanlovi! Klaviatura mexanik, har bir tugma alohida kalit (kalit) yordamida amalga oshiriladi.",
+      "salePercentage": 50,
+      "image": "https://images.uzum.uz/cri7ibc2gps3jqbgi490/original.jpg",
+      "price": 400000,
+      "oldPrice": 800000
+    },
+    {
+      "id": "21",
+      "title": "Mouse",
+      "description": "Ushbu simsiz kompyuter sichqonchasi qulay ish yoki o'yin uchun mukammal tanlovdir. Bluetooth qo'llab-quvvatlashi va ovozsiz tugmalari bilan u uy va ofis uchun mos keladi.",
+      "salePercentage": 10,
+      "image": "https://images.uzum.uz/cpcpfv4crcfqljg1agog/original.jpg",
+      "price": 90000,
+      "oldPrice": 100000
+    },
+    {
+      "id": "22",
+      "title": "Sumka",
+      "description": "Noutbukingiz uchun zamonaviy va amaliy sumka qidiryapsizmi? U holda bizning sumkamiz siz uchun juda mos keladi!",
+      "salePercentage": 8,
+      "image": "https://images.uzum.uz/comeftjkkckv6jb5eiog/original.jpg",
+      "price": 800000,
+      "oldPrice": 870000
+    },
+    {
+      "id": "23",
+      "title": "Keyboard",
+      "description": "O'yin klaviaturasi, mexanik, orqadan yoritilgan qizil kalitlarga ega. Dunyo bo'ylab xaridorlarning tanlovi! Klaviatura mexanik, har bir tugma alohida kalit (kalit) yordamida amalga oshiriladi.",
+      "salePercentage": 5,
+      "image": "https://images.uzum.uz/cle3hft6sfhvbd1ibhug/original.jpg",
+      "price": 450000,
+      "oldPrice": 473000
+    },
+    {
+      "id": "24",
+      "title": "airpods",
+      "description": "Pro 5 Wireless Bluetooth minigarnituralari avtomobil haydash, piyoda yurish va sport bilan shug‘ullanayotganda musiqa, audio va video tinglash hamda qo‘ng‘iroqlarga javob berish imkonini beruvchi ishlatish uchun qulay minigarnituralardir.",
+      "salePercentage": 50,
+      "image": "https://images.uzum.uz/cpr72h8sarnfdo98t73g/original.jpg",
+      "price": 299000,
+      "oldPrice": 598000
+    },
+    {
+      "id": "25",
+      "title": "Mouse",
+      "description": "Ushbu simsiz kompyuter sichqonchasi qulay ish yoki o'yin uchun mukammal tanlovdir. Bluetooth qo'llab-quvvatlashi va ovozsiz tugmalari bilan u uy va ofis uchun mos keladi.",
+      "salePercentage": 5,
+      "image": "https://images.uzum.uz/cpt82i0sarnfdo99aj20/original.jpg",
+      "price": 12500,
+      "oldPrice": 13100
+    }
+  ],
+  "advertisement": [
+    {
+      "id": "1",
+      "category": "advertisement",
+      "title": "Tech Heim",
+      "subtitle": "Join the digital revolution",
+      "image": "https://rooter.lk/storage/miscellaneous/mouse-3-title-j.jpg"
+    },
+    {
+      "id": "2",
+      "category": "advertisement",
+      "title": "Heim Tech",
+      "subtitle": "Do not join the digital revolution",
+      "image": "https://m.media-amazon.com/images/I/81mACDJ8+YL._AC_SL1500_.jpg"
+    },
+    {
+      "id": "3",
+      "category": "advertisement",
+      "title": "Nigga Man",
+      "subtitle": "Join this shitty something",
+      "image": "https://images.uzum.uz/ct60jh5pb7f3jk81ofn0/t_product_240_high.jpg"
+    }
+  ],
+  "AllProducts": [
+    {
+      "id": "1",
+      "title": "iPhone 13",
+      "description": "Apple iPhone 13 a 2021 yilgi smartfon 6.1 dyuymli super Retina xdr OLED displeyga ega bo'lib, u aniq tasvir va yorqin ranglarni taqdim etadi.",
+      "image": "https://images.uzum.uz/ct60jh5pb7f3jk81ofn0/t_product_240_high.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Redmi 13R 5G",
+      "description": "Ishlab chiqarilgandan rasmiy kafolat: 1 yil. BarchaIMEIlar rasman ro'yxatdan o'tish o'yin (ro'yxatdan o'tishning faol 30 kun qismi amalga.oshiriladi).",
+      "image": "https://images.uzum.uz/csej83r4nkdhfdv6rm4g/original.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Samsung Galaxy A15",
+      "description": "Video suratga olish (asosiy kamera): 1080p, 30fps Autentifikatsiya: barmoq izi skaneri yon tomonda",
+      "image": "https://images.uzum.uz/cr5qduniraat934r19ng/original.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Samsung Galaxy S22 ULTRA",
+      "description": "Operatsion tizim: Samsung One UI foydalanuvchi interfeysi bilan eng yangi Android operatsion tizimida ishlaydi.",
+      "image": "https://images.uzum.uz/csi5udtpq3ghb2qm69i0/original.jpg"
+    },
+    {
+      "id": "5",
+      "title": " HONOR X5 Plus",
+      "description": "Plastik korpusdagi HONOR X5 Plus smartfoni rasmlarning yorqinligini oshirish uchun LED chirog‘li ikki modulli kamera bilan jihozlangan.",
+      "image": "https://images.uzum.uz/crla2pchug2lhicnabr0/original.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Redmi 14",
+      "description": "Yupqa korpus: Atigi 8,22 mm² qalinlik, bu smartfonni yengil va qulay foydalanish uchun mos qiladi.",
+      "image": "https://images.uzum.uz/crmh606vip07shn5ar70/original.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Redmi 9a",
+      "description": "redmi 9 A 2021 yilgi smartfon 6.1 dyuymli super Retina xdr OLED displeyga ega bo'lib, u aniq tasvir va yorqin ranglarni taqdim etadi.",
+      "image": "https://images.uzum.uz/cis2jarltlh4bk4o5eeg/original.jpg"
+    },
+    {
+      "id": "8",
+      "title": "iPhone 13",
+      "description": "Apple iPhone 13 a 2021 yilgi smartfon 6.1 dyuymli super Retina xdr OLED displeyga ega bo'lib, u aniq tasvir va yorqin ranglarni taqdim etadi.",
+      "image": "https://images.uzum.uz/cmqctcjifoubkc6pib3g/original.jpg"
+    },
+    {
+      "id": "9",
+      "title": "iPhone 13",
+      "description": "Apple iPhone 13 a 2021 yilgi smartfon 6.1 dyuymli super Retina xdr OLED displeyga ega bo'lib, u aniq tasvir va yorqin ranglarni taqdim etadi.",
+      "image": "https://images.uzum.uz/ct60jh5pb7f3jk81ofn0/t_product_240_high.jpg"
+    },
+    {
+      "id": "10",
+      "title": "iPhone 13",
+      "description": "Apple iPhone 13 a 2021 yilgi smartfon 6.1 dyuymli super Retina xdr OLED displeyga ega bo'lib, u aniq tasvir va yorqin ranglarni taqdim etadi.",
+      "image": "https://images.uzum.uz/ct60jh5pb7f3jk81ofn0/t_product_240_high.jpg"
+    },
+    {
+      "id": "11",
+      "title": "iPhone 13",
+      "description": "Apple iPhone 13 a 2021 yilgi smartfon 6.1 dyuymli super Retina xdr OLED displeyga ega bo'lib, u aniq tasvir va yorqin ranglarni taqdim etadi.",
+      "image": "https://images.uzum.uz/ct60jh5pb7f3jk81ofn0/t_product_240_high.jpg"
+    },
+    {
+      "id": "12",
+      "title": "iPhone 13",
+      "description": "Apple iPhone 13 a 2021 yilgi smartfon 6.1 dyuymli super Retina xdr OLED displeyga ega bo'lib, u aniq tasvir va yorqin ranglarni taqdim etadi.",
+      "image": "https://images.uzum.uz/ct60jh5pb7f3jk81ofn0/t_product_240_high.jpg"
+    },
+    {
+      "id": "13",
+      "title": "iPhone 13",
+      "description": "Apple iPhone 13 a 2021 yilgi smartfon 6.1 dyuymli super Retina xdr OLED displeyga ega bo'lib, u aniq tasvir va yorqin ranglarni taqdim etadi.",
+      "image": "https://images.uzum.uz/ct60jh5pb7f3jk81ofn0/t_product_240_high.jpg"
+    },
+    {
+      "id": "14",
+      "title": "iPhone 13",
+      "description": "Apple iPhone 13 a 2021 yilgi smartfon 6.1 dyuymli super Retina xdr OLED displeyga ega bo'lib, u aniq tasvir va yorqin ranglarni taqdim etadi.",
+      "image": "https://images.uzum.uz/ct60jh5pb7f3jk81ofn0/t_product_240_high.jpg"
+    },
+    {
+      "id": "15",
+      "title": "iPhone 13",
+      "description": "Apple iPhone 13 a 2021 yilgi smartfon 6.1 dyuymli super Retina xdr OLED displeyga ega bo'lib, u aniq tasvir va yorqin ranglarni taqdim etadi.",
+      "image": "https://images.uzum.uz/ct60jh5pb7f3jk81ofn0/t_product_240_high.jpg"
+    }
+  ],
+  "OnSale": [
+    {
+      "id": "1",
+      "title": "airpods",
+      "description": "Pro 5 Wireless Bluetooth minigarnituralari avtomobil haydash, piyoda yurish va sport bilan shug‘ullanayotganda musiqa, audio va video tinglash hamda qo‘ng‘iroqlarga javob berish imkonini beruvchi ishlatish uchun qulay minigarnituralardir.",
+      "salePercentage": 12,
+      "image": "https://images.uzum.uz/cs4fabefh2vj1qtjtevg/original.jpg",
+      "price": 300000,
+      "oldPrice": 340999
+    },
+    {
+      "id": "2",
+      "title": "Kovrik",
+      "description": "Sirt materiali: Mikrotokimali, silliq harakatlanish uchun mo'ljallangan",
+      "salePercentage": 6,
+      "image": "https://images.uzum.uz/cs935abvgbkl7nokdgbg/original.jpg",
+      "price": 20000,
+      "oldPrice": 22000
+    },
+    {
+      "id": "3",
+      "title": "Keyboard",
+      "description": "O'yin klaviaturasi, mexanik, orqadan yoritilgan qizil kalitlarga ega. Dunyo bo'ylab xaridorlarning tanlovi! Klaviatura mexanik, har bir tugma alohida kalit (kalit) yordamida amalga oshiriladi.",
+      "salePercentage": 20,
+      "image": "https://images.uzum.uz/crftkjns09cvvbjrb06g/original.jpg",
+      "price": 52000,
+      "oldPrice": 65000
+    },
+    {
+      "id": "4",
+      "title": "Sumka",
+      "description": "Noutbukingiz uchun zamonaviy va amaliy sumka qidiryapsizmi? U holda bizning sumkamiz siz uchun juda mos keladi!",
+      "salePercentage": 15,
+      "image": "https://images.uzum.uz/cpar2mc0u44vrh8fa930/original.jpg",
+      "price": 150000,
+      "oldPrice": 176000
+    },
+    {
+      "id": "5",
+      "title": "Keyboard",
+      "description": "O'yin klaviaturasi, mexanik, orqadan yoritilgan qizil kalitlarga ega. Dunyo bo'ylab xaridorlarning tanlovi! Klaviatura mexanik, har bir tugma alohida kalit (kalit) yordamida amalga oshiriladi.",
+      "salePercentage": 50,
+      "image": "https://images.uzum.uz/cri7ibc2gps3jqbgi490/original.jpg",
+      "price": 400000,
+      "oldPrice": 800000
+    },
+    {
+      "id": "6",
+      "title": "Mouse",
+      "description": "Ushbu simsiz kompyuter sichqonchasi qulay ish yoki o'yin uchun mukammal tanlovdir. Bluetooth qo'llab-quvvatlashi va ovozsiz tugmalari bilan u uy va ofis uchun mos keladi.",
+      "salePercentage": 10,
+      "image": "https://images.uzum.uz/cpcpfv4crcfqljg1agog/original.jpg",
+      "price": 90000,
+      "oldPrice": 100000
+    },
+    {
+      "id": "7",
+      "title": "Sumka",
+      "description": "Noutbukingiz uchun zamonaviy va amaliy sumka qidiryapsizmi? U holda bizning sumkamiz siz uchun juda mos keladi!",
+      "salePercentage": 8,
+      "image": "https://images.uzum.uz/comeftjkkckv6jb5eiog/original.jpg",
+      "price": 800000,
+      "oldPrice": 870000
+    },
+    {
+      "id": "8",
+      "title": "Keyboard",
+      "description": "O'yin klaviaturasi, mexanik, orqadan yoritilgan qizil kalitlarga ega. Dunyo bo'ylab xaridorlarning tanlovi! Klaviatura mexanik, har bir tugma alohida kalit (kalit) yordamida amalga oshiriladi.",
+      "salePercentage": 5,
+      "image": "https://images.uzum.uz/cle3hft6sfhvbd1ibhug/original.jpg",
+      "price": 450000,
+      "oldPrice": 473000
+    },
+    {
+      "id": "9",
+      "title": "airpods",
+      "description": "Pro 5 Wireless Bluetooth minigarnituralari avtomobil haydash, piyoda yurish va sport bilan shug‘ullanayotganda musiqa, audio va video tinglash hamda qo‘ng‘iroqlarga javob berish imkonini beruvchi ishlatish uchun qulay minigarnituralardir.",
+      "salePercentage": 50,
+      "image": "https://images.uzum.uz/cpr72h8sarnfdo98t73g/original.jpg",
+      "price": 299000,
+      "oldPrice": 598000
+    },
+    {
+      "id": "10",
+      "title": "Mouse",
+      "description": "Ushbu simsiz kompyuter sichqonchasi qulay ish yoki o'yin uchun mukammal tanlovdir. Bluetooth qo'llab-quvvatlashi va ovozsiz tugmalari bilan u uy va ofis uchun mos keladi.",
+      "salePercentage": 5,
+      "image": "https://images.uzum.uz/cpt82i0sarnfdo99aj20/original.jpg",
+      "price": 12500,
+      "oldPrice": 13100
+    }
+  ],
+  "newProdRef": [
+    {
+      "id": "1",
+      "title": "Mouse",
+      "description": "Ushbu simsiz kompyuter sichqonchasi qulay ish yoki o'yin uchun mukammal tanlovdir. Bluetooth qo'llab-quvvatlashi va ovozsiz tugmalari bilan u uy va ofis uchun mos keladi.",
+      "image": "https://images.uzum.uz/cpt82i0sarnfdo99aj20/original.jpg",
+      "rating": 5,
+      "price": 13100
+    },
+    {
+      "id": "2",
+      "title": "Keyboard",
+      "description": "O'yin klaviaturasi, mexanik, orqadan yoritilgan qizil kalitlarga ega. Dunyo bo'ylab xaridorlarning tanlovi! Klaviatura mexanik, har bir tugma alohida kalit (kalit) yordamida amalga oshiriladi.",
+      "image": "https://images.uzum.uz/cri7ibc2gps3jqbgi490/original.jpg",
+      "rating": 4.8,
+      "price": 50200
+    },
+    {
+      "id": "3",
+      "title": "Sumka",
+      "description": "Noutbukingiz uchun zamonaviy va amaliy sumka qidiryapsizmi? U holda bizning sumkamiz siz uchun juda mos keladi!",
+      "salePercentage": 8,
+      "image": "https://images.uzum.uz/comeftjkkckv6jb5eiog/original.jpg",
+      "rating": 3.2,
+      "price": 13100
+    },
+    {
+      "id": "4",
+      "title": "iPhone 13",
+      "description": "Apple iPhone 13 a 2021 yilgi smartfon 6.1 dyuymli super Retina xdr OLED displeyga ega bo'lib, u aniq tasvir va yorqin ranglarni taqdim etadi.",
+      "image": "https://images.uzum.uz/ct60jh5pb7f3jk81ofn0/t_product_240_high.jpg",
+      "rating": 4.5,
+      "price": 12560
+    }
+  ],
+  "newProd": [
+    {
+      "id": "1",
+      "title": "Mouse",
+      "description": "Ushbu simsiz kompyuter sichqonchasi qulay ish yoki o'yin uchun mukammal tanlovdir. Bluetooth qo'llab-quvvatlashi va ovozsiz tugmalari bilan u uy va ofis uchun mos keladi.",
+      "image": "https://images.uzum.uz/cpt82i0sarnfdo99aj20/original.jpg",
+      "rating": 2.8,
+      "price": 13100
+    },
+    {
+      "id": "2",
+      "title": "Keyboard",
+      "description": "O'yin klaviaturasi, mexanik, orqadan yoritilgan qizil kalitlarga ega. Dunyo bo'ylab xaridorlarning tanlovi! Klaviatura mexanik, har bir tugma alohida kalit (kalit) yordamida amalga oshiriladi.",
+      "image": "https://images.uzum.uz/cri7ibc2gps3jqbgi490/original.jpg",
+      "rating": 3.4,
+      "price": 50200
+    },
+    {
+      "id": "3",
+      "title": "Sumka",
+      "description": "Noutbukingiz uchun zamonaviy va amaliy sumka qidiryapsizmi? U holda bizning sumkamiz siz uchun juda mos keladi!",
+      "image": "https://images.uzum.uz/comeftjkkckv6jb5eiog/original.jpg",
+      "rating": 1.6,
+      "price": 13100
+    },
+    {
+      "id": "4",
+      "title": "iPhone 13",
+      "description": "Apple iPhone 13 a 2021 yilgi smartfon 6.1 dyuymli super Retina xdr OLED displeyga ega bo'lib, u aniq tasvir va yorqin ranglarni taqdim etadi.",
+      "image": "https://images.uzum.uz/ct60jh5pb7f3jk81ofn0/t_product_240_high.jpg",
+      "rating": 5,
+      "price": 12560
+    },
+    {
+      "id": "5",
+      "title": "Keyboard",
+      "description": "O'yin klaviaturasi, mexanik, orqadan yoritilgan qizil kalitlarga ega. Dunyo bo'ylab xaridorlarning tanlovi! Klaviatura mexanik, har bir tugma alohida kalit (kalit) yordamida amalga oshiriladi.",
+      "image": "https://images.uzum.uz/cri7ibc2gps3jqbgi490/original.jpg",
+      "rating": 4.9,
+      "price": 42365
+    },
+    {
+      "id": "6",
+      "title": "Mouse",
+      "description": "Ushbu simsiz kompyuter sichqonchasi qulay ish yoki o'yin uchun mukammal tanlovdir. Bluetooth qo'llab-quvvatlashi va ovozsiz tugmalari bilan u uy va ofis uchun mos keladi.",
+      "image": "https://images.uzum.uz/cpcpfv4crcfqljg1agog/original.jpg",
+      "rating": 2.3,
+      "price": 56646
+    },
+    {
+      "id": "7",
+      "title": "Sumka",
+      "description": "Noutbukingiz uchun zamonaviy va amaliy sumka qidiryapsizmi? U holda bizning sumkamiz siz uchun juda mos keladi!",
+      "image": "https://images.uzum.uz/comeftjkkckv6jb5eiog/original.jpg",
+      "rating": 4,
+      "price": 44645
+    },
+    {
+      "id": "8",
+      "title": "Keyboard",
+      "description": "O'yin klaviaturasi, mexanik, orqadan yoritilgan qizil kalitlarga ega. Dunyo bo'ylab xaridorlarning tanlovi! Klaviatura mexanik, har bir tugma alohida kalit (kalit) yordamida amalga oshiriladi.",
+      "salePercentage": 5,
+      "image": "https://images.uzum.uz/cle3hft6sfhvbd1ibhug/original.jpg",
+      "rating": 1.8,
+      "price": 54841
+    },
+    {
+      "id": "9",
+      "title": "airpods",
+      "description": "Pro 5 Wireless Bluetooth minigarnituralari avtomobil haydash, piyoda yurish va sport bilan shug‘ullanayotganda musiqa, audio va video tinglash hamda qo‘ng‘iroqlarga javob berish imkonini beruvchi ishlatish uchun qulay minigarnituralardir.",
+      "salePercentage": 50,
+      "image": "https://images.uzum.uz/cpr72h8sarnfdo98t73g/original.jpg",
+      "rating": 5,
+      "price": 46564
+    },
+    {
+      "id": "10",
+      "title": "Mouse",
+      "description": "Ushbu simsiz kompyuter sichqonchasi qulay ish yoki o'yin uchun mukammal tanlovdir. Bluetooth qo'llab-quvvatlashi va ovozsiz tugmalari bilan u uy va ofis uchun mos keladi.",
+      "image": "https://images.uzum.uz/cpt82i0sarnfdo99aj20/original.jpg",
+      "rating": 3.4,
+      "price": 90000
+    },
+    {
+      "id": "11",
+      "title": "Mouse",
+      "description": "Ushbu simsiz kompyuter sichqonchasi qulay ish yoki o'yin uchun mukammal tanlovdir. Bluetooth qo'llab-quvvatlashi va ovozsiz tugmalari bilan u uy va ofis uchun mos keladi.",
+      "image": "https://images.uzum.uz/cpt82i0sarnfdo99aj20/original.jpg",
+      "rating": 2.8,
+      "price": 13100
+    },
+    {
+      "id": "12",
+      "title": "Keyboard",
+      "description": "O'yin klaviaturasi, mexanik, orqadan yoritilgan qizil kalitlarga ega. Dunyo bo'ylab xaridorlarning tanlovi! Klaviatura mexanik, har bir tugma alohida kalit (kalit) yordamida amalga oshiriladi.",
+      "image": "https://images.uzum.uz/cri7ibc2gps3jqbgi490/original.jpg",
+      "rating": 3.4,
+      "price": 50200
+    },
+    {
+      "id": "13",
+      "title": "Sumka",
+      "description": "Noutbukingiz uchun zamonaviy va amaliy sumka qidiryapsizmi? U holda bizning sumkamiz siz uchun juda mos keladi!",
+      "image": "https://images.uzum.uz/comeftjkkckv6jb5eiog/original.jpg",
+      "rating": 1.6,
+      "price": 13100
+    },
+    {
+      "id": "14",
+      "title": "iPhone 13",
+      "description": "Apple iPhone 13 a 2021 yilgi smartfon 6.1 dyuymli super Retina xdr OLED displeyga ega bo'lib, u aniq tasvir va yorqin ranglarni taqdim etadi.",
+      "image": "https://images.uzum.uz/ct60jh5pb7f3jk81ofn0/t_product_240_high.jpg",
+      "rating": 5,
+      "price": 12560
+    },
+    {
+      "id": "15",
+      "title": "Keyboard",
+      "description": "O'yin klaviaturasi, mexanik, orqadan yoritilgan qizil kalitlarga ega. Dunyo bo'ylab xaridorlarning tanlovi! Klaviatura mexanik, har bir tugma alohida kalit (kalit) yordamida amalga oshiriladi.",
+      "image": "https://images.uzum.uz/cri7ibc2gps3jqbgi490/original.jpg",
+      "rating": 4.9,
+      "price": 42365
+    },
+    {
+      "id": "16",
+      "title": "Mouse",
+      "description": "Ushbu simsiz kompyuter sichqonchasi qulay ish yoki o'yin uchun mukammal tanlovdir. Bluetooth qo'llab-quvvatlashi va ovozsiz tugmalari bilan u uy va ofis uchun mos keladi.",
+      "image": "https://images.uzum.uz/cpcpfv4crcfqljg1agog/original.jpg",
+      "rating": 2.3,
+      "price": 56646
+    },
+    {
+      "id": "17",
+      "title": "Sumka",
+      "description": "Noutbukingiz uchun zamonaviy va amaliy sumka qidiryapsizmi? U holda bizning sumkamiz siz uchun juda mos keladi!",
+      "image": "https://images.uzum.uz/comeftjkkckv6jb5eiog/original.jpg",
+      "rating": 4,
+      "price": 44645
+    },
+    {
+      "id": "18",
+      "title": "Keyboard",
+      "description": "O'yin klaviaturasi, mexanik, orqadan yoritilgan qizil kalitlarga ega. Dunyo bo'ylab xaridorlarning tanlovi! Klaviatura mexanik, har bir tugma alohida kalit (kalit) yordamida amalga oshiriladi.",
+      "salePercentage": 5,
+      "image": "https://images.uzum.uz/cle3hft6sfhvbd1ibhug/original.jpg",
+      "rating": 1.8,
+      "price": 54841
+    },
+    {
+      "id": "19",
+      "title": "airpods",
+      "description": "Pro 5 Wireless Bluetooth minigarnituralari avtomobil haydash, piyoda yurish va sport bilan shug‘ullanayotganda musiqa, audio va video tinglash hamda qo‘ng‘iroqlarga javob berish imkonini beruvchi ishlatish uchun qulay minigarnituralardir.",
+      "salePercentage": 50,
+      "image": "https://images.uzum.uz/cpr72h8sarnfdo98t73g/original.jpg",
+      "rating": 5,
+      "price": 46564
+    },
+    {
+      "id": "20",
+      "title": "Mouse",
+      "description": "Ushbu simsiz kompyuter sichqonchasi qulay ish yoki o'yin uchun mukammal tanlovdir. Bluetooth qo'llab-quvvatlashi va ovozsiz tugmalari bilan u uy va ofis uchun mos keladi.",
+      "image": "https://images.uzum.uz/cpt82i0sarnfdo99aj20/original.jpg",
+      "rating": 3.4,
+      "price": 90000
+    },
+    {
+      "id": "21",
+      "title": "Mouse",
+      "description": "Ushbu simsiz kompyuter sichqonchasi qulay ish yoki o'yin uchun mukammal tanlovdir. Bluetooth qo'llab-quvvatlashi va ovozsiz tugmalari bilan u uy va ofis uchun mos keladi.",
+      "image": "https://images.uzum.uz/cpt82i0sarnfdo99aj20/original.jpg",
+      "rating": 2.8,
+      "price": 13100
+    },
+    {
+      "id": "22",
+      "title": "Keyboard",
+      "description": "O'yin klaviaturasi, mexanik, orqadan yoritilgan qizil kalitlarga ega. Dunyo bo'ylab xaridorlarning tanlovi! Klaviatura mexanik, har bir tugma alohida kalit (kalit) yordamida amalga oshiriladi.",
+      "image": "https://images.uzum.uz/cri7ibc2gps3jqbgi490/original.jpg",
+      "rating": 3.4,
+      "price": 50200
+    },
+    {
+      "id": "23",
+      "title": "Sumka",
+      "description": "Noutbukingiz uchun zamonaviy va amaliy sumka qidiryapsizmi? U holda bizning sumkamiz siz uchun juda mos keladi!",
+      "image": "https://images.uzum.uz/comeftjkkckv6jb5eiog/original.jpg",
+      "rating": 1.6,
+      "price": 13100
+    },
+    {
+      "id": "24",
+      "title": "iPhone 13",
+      "description": "Apple iPhone 13 a 2021 yilgi smartfon 6.1 dyuymli super Retina xdr OLED displeyga ega bo'lib, u aniq tasvir va yorqin ranglarni taqdim etadi.",
+      "image": "https://images.uzum.uz/ct60jh5pb7f3jk81ofn0/t_product_240_high.jpg",
+      "rating": 5,
+      "price": 12560
+    },
+    {
+      "id": "25",
+      "title": "Keyboard",
+      "description": "O'yin klaviaturasi, mexanik, orqadan yoritilgan qizil kalitlarga ega. Dunyo bo'ylab xaridorlarning tanlovi! Klaviatura mexanik, har bir tugma alohida kalit (kalit) yordamida amalga oshiriladi.",
+      "image": "https://images.uzum.uz/cri7ibc2gps3jqbgi490/original.jpg",
+      "rating": 4.9,
+      "price": 42365
+    },
+    {
+      "id": "26",
+      "title": "Mouse",
+      "description": "Ushbu simsiz kompyuter sichqonchasi qulay ish yoki o'yin uchun mukammal tanlovdir. Bluetooth qo'llab-quvvatlashi va ovozsiz tugmalari bilan u uy va ofis uchun mos keladi.",
+      "image": "https://images.uzum.uz/cpcpfv4crcfqljg1agog/original.jpg",
+      "rating": 2.3,
+      "price": 56646
+    },
+    {
+      "id": "27",
+      "title": "Sumka",
+      "description": "Noutbukingiz uchun zamonaviy va amaliy sumka qidiryapsizmi? U holda bizning sumkamiz siz uchun juda mos keladi!",
+      "image": "https://images.uzum.uz/comeftjkkckv6jb5eiog/original.jpg",
+      "rating": 4,
+      "price": 44645
+    },
+    {
+      "id": "28",
+      "title": "Keyboard",
+      "description": "O'yin klaviaturasi, mexanik, orqadan yoritilgan qizil kalitlarga ega. Dunyo bo'ylab xaridorlarning tanlovi! Klaviatura mexanik, har bir tugma alohida kalit (kalit) yordamida amalga oshiriladi.",
+      "salePercentage": 5,
+      "image": "https://images.uzum.uz/cle3hft6sfhvbd1ibhug/original.jpg",
+      "rating": 1.8,
+      "price": 54841
+    },
+    {
+      "id": "29",
+      "title": "airpods",
+      "description": "Pro 5 Wireless Bluetooth minigarnituralari avtomobil haydash, piyoda yurish va sport bilan shug‘ullanayotganda musiqa, audio va video tinglash hamda qo‘ng‘iroqlarga javob berish imkonini beruvchi ishlatish uchun qulay minigarnituralardir.",
+      "salePercentage": 50,
+      "image": "https://images.uzum.uz/cpr72h8sarnfdo98t73g/original.jpg",
+      "rating": 5,
+      "price": 46564
+    },
+    {
+      "id": "30",
+      "title": "Mouse",
+      "description": "Ushbu simsiz kompyuter sichqonchasi qulay ish yoki o'yin uchun mukammal tanlovdir. Bluetooth qo'llab-quvvatlashi va ovozsiz tugmalari bilan u uy va ofis uchun mos keladi.",
+      "image": "https://images.uzum.uz/cpt82i0sarnfdo99aj20/original.jpg",
+      "rating": 3.4,
+      "price": 90000
+    }
+  ],
+  "brands": [
+    {
+      "id": "1",
+      "image": "https://1000logos.net/wp-content/uploads/2016/10/Apple-Logo.jpg"
+    },
+    {
+      "id": "2",
+      "image": "https://i.pinimg.com/736x/ae/b8/3c/aeb83cf64500a32d907a4c9db30a91c1.jpg"
+    },
+    {
+      "id": "3",
+      "image": "https://1000logos.net/wp-content/uploads/2017/06/Samsung-emblem.png"
+    },
+    {
+      "id": "4",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Canon_logo_vector.png"
+    },
+    {
+      "id": "5",
+      "image": "https://wallpapercat.com/w/full/c/e/0/2148933-3840x2160-desktop-4k-huawei-logo-wallpaper.jpg"
+    },
+    {
+      "id": "6",
+      "image": "https://cdn.icon-icons.com/icons2/2389/PNG/512/lenovo_logo_icon_145112.png"
+    }
+  ],
+  "cart": [
+    {
+      "id": "4",
+      "title": "Samsung Galaxy S22 ULTRA",
+      "description": "Operatsion tizim: Samsung One UI foydalanuvchi interfeysi bilan eng yangi Android operatsion tizimida ishlaydi.",
+      "image": "https://images.uzum.uz/csi5udtpq3ghb2qm69i0/original.jpg",
+      "price": 468113
+    },
+    {
+      "id": "1",
+      "title": "iPhone 13",
+      "description": "Apple iPhone 13 a 2021 yilgi smartfon 6.1 dyuymli super Retina xdr OLED displeyga ega bo'lib, u aniq tasvir va yorqin ranglarni taqdim etadi.",
+      "image": "https://images.uzum.uz/ct60jh5pb7f3jk81ofn0/t_product_240_high.jpg",
+      "price": 468113
+    },
+    {
+      "id": "7",
+      "title": "Redmi 9a",
+      "description": "redmi 9 A 2021 yilgi smartfon 6.1 dyuymli super Retina xdr OLED displeyga ega bo'lib, u aniq tasvir va yorqin ranglarni taqdim etadi.",
+      "image": "https://images.uzum.uz/cis2jarltlh4bk4o5eeg/original.jpg",
+      "price": 468113
+    },
+    {
+      "id": "11",
+      "title": "iPhone 13",
+      "description": "Apple iPhone 13 a 2021 yilgi smartfon 6.1 dyuymli super Retina xdr OLED displeyga ega bo'lib, u aniq tasvir va yorqin ranglarni taqdim etadi.",
+      "image": "https://images.uzum.uz/ct60jh5pb7f3jk81ofn0/t_product_240_high.jpg",
+      "price": 468113
+    },
+    {
+      "id": "19",
+      "title": "Sumka",
+      "description": "Noutbukingiz uchun zamonaviy va amaliy sumka qidiryapsizmi? U holda bizning sumkamiz siz uchun juda mos keladi!",
+      "salePercentage": 15,
+      "image": "https://images.uzum.uz/cpar2mc0u44vrh8fa930/original.jpg",
+      "price": 150000,
+      "oldPrice": 176000
+    },
+    {
+      "id": "22",
+      "title": "Sumka",
+      "description": "Noutbukingiz uchun zamonaviy va amaliy sumka qidiryapsizmi? U holda bizning sumkamiz siz uchun juda mos keladi!",
+      "salePercentage": 8,
+      "image": "https://images.uzum.uz/comeftjkkckv6jb5eiog/original.jpg",
+      "price": 800000,
+      "oldPrice": 870000
+    },
+    {
+      "id": "2",
+      "title": "Keyboard",
+      "description": "O'yin klaviaturasi, mexanik, orqadan yoritilgan qizil kalitlarga ega. Dunyo bo'ylab xaridorlarning tanlovi! Klaviatura mexanik, har bir tugma alohida kalit (kalit) yordamida amalga oshiriladi.",
+      "image": "https://images.uzum.uz/cri7ibc2gps3jqbgi490/original.jpg",
+      "rating": 3.4,
+      "price": 50200
+    }
+  ]
+}
