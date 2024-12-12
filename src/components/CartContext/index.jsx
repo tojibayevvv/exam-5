@@ -10,12 +10,12 @@ const API_URL = "http://localhost:5000/cart";
 const CartContextProvider = ({ children }) => {
   const [cartItems, setCartItems] = useState([]);
 
-  // Fetch cart items from the backend on initial render
+  // Fetch cart items from the backend on initial render 
   useEffect(() => {
     const fetchCartItems = async () => {
       try {
         const response = await axios.get(API_URL);
-        setCartItems(response.data); // Assuming the API returns an array of cart items
+        setCartItems(response.data); // Assuming the API returns array of cart items
       } catch (error) {
         console.error("Error fetching cart items:", error);
       }
@@ -34,7 +34,7 @@ const CartContextProvider = ({ children }) => {
     }
   };
 
-  // Optionally implement remove from cart
+  // implement remove from cart (optional)
   const removeFromCart = async (id) => {
     try {
       await axios.delete(`${API_URL}/${id}`);
@@ -51,7 +51,7 @@ const CartContextProvider = ({ children }) => {
   );
 };
 
-// Custom hook for consuming the context
+// Custom hook to consume the context
 const useCartContext = () => useContext(CartContext);
 
 export { CartContextProvider, useCartContext };
